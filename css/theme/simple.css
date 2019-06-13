@@ -135,3 +135,11 @@ body {
  *********************************************/
 .reveal .slide-number {
   color: darkblue; }
+
+.reveal ol { 
+  padding-top: 20px;
+}
+
+.reveal ol li {
+  padding-bottom: 15px;
+}
